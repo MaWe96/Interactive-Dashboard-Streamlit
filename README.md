@@ -1,5 +1,5 @@
 # Data Profiling med Streamlit
-Pythonfördjupning i interaktiv streamlit med inslag av dashboard-design, dataklass, logging och testing. Lärdomar i hur lokalt körd Python-webbflik skiljer sig från webbutveckling framkommer.
+Pythonfördjupning i interaktiv streamlit med inslag av dashboard-design, logging och testing. Lärdomar i hur lokalt körd Python-webbflik skiljer sig från webbutveckling framkommer.
 
 ## Vad dashboard.py gör
 Användare lägger in en csv och får tabeller och visualer som går att filtra genom drop-down menyer. Hur mycket filtrande som användaren görs visas i en counter. Logikmotorn *profiling*, tester och logging sköts utanför, enligt arbetets struktur.
